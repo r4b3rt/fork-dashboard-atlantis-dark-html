@@ -8,9 +8,9 @@ Atlantis Dark is a free bootstrap 4 admin dashboard that is beautifully and eleg
 
 PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup)) 
 
-| [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) | [Django Dashboard Atlantis dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) | [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) 
+| [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) | [Django Dashboard Atlantis dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) | [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro) 
 | --- | --- | --- |
-| [![Flask Dashboard Atlantis Dark](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-dark-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) | [![Django Dashboard Atlantis dark](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-atlantis-dark-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) | [![Django Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-black-pro) 
+| [![Flask Dashboard Atlantis Dark](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-dark-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) | [![Django Dashboard Atlantis dark](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-atlantis-dark-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) | [![Flask Dashboard Material PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) 
 
 <br />
 <br />
