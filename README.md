@@ -4,11 +4,18 @@ Atlantis Dark is a free bootstrap 4 admin dashboard that is beautifully and eleg
 
 <br />
 
-> **In love with this dashboard?** Check out the [open-source version coded in Flask](https://github.com/app-generator/flask-dashboard-atlantis-dark). **Features:** SQLite Database, Session-Based Authentication, Flat Html converted to Jinja2, clean code-base. 
+## Want more? Use coded version or Go PRO!
+
+PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup)) 
+
+| [Flask Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) | [Django Dashboard Atlantis dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) | [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) 
+| --- | --- | --- |
+| [![Flask Dashboard Atlantis Dark](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-dark-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark) | [![Django Dashboard Atlantis dark](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-atlantis-dark-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) | [![Django Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-black-pro) 
 
 <br />
+<br />
 
-![Flask Dashboard Atlantis - Open-Source Admin Panel](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-dark-intro.gif)
+![Flask Dashboard Atlantis - Open-Source Admin Panel](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-dark-screen.png)
 
 <br />
 
